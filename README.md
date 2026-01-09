@@ -1,12 +1,12 @@
 ## Hola, soy Rodrigo López 👋
 
-Soy estudiante de la carrera de Ingeniería en Computación, tengo un gran interés en la tecnología, la programación y la resolución de problemas.
+Estudiante de Ingeniería en Computación en la UNAM, interesado en desarrollo de software, análisis de datos e inteligencia artificial, con enfoque en la resolución de problemas y el diseño de sistemas.
 
 ---
 
 ### 🔧 **Habilidades técnicas:**
 
-- **Lenguajes de programación: C, Python, Javascript**
+- **Lenguajes de programación: C, C++, Python, Javascript, CSS**
 
 ---
 
@@ -22,6 +22,5 @@ Soy alguien que disfruta ver pasar el tiempo. Ver peliculas y series es mi pasat
 
 - **Email:** [rodrigo1..jrll@gmail.com](mailto\:rodrigo1..jrll@gmail.com)
 - LinkedIn: [www.linkedin.com/in/jose-rodrigo-lopez-lopez-00972624b](http://www.linkedin.com/in/jose-rodrigo-lopez-lopez-00972624b)
-- Instagram: rodrigo1.jrll
 
 
