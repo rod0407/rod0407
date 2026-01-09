@@ -6,11 +6,11 @@ Estudiante de Ingeniería en Computación en la UNAM, interesado en desarrollo d
 
 ### 🔧 **Habilidades técnicas:**
 
-- **Lenguajes de programación: C, C++, Python, Javascript, CSS**
+- **Lenguajes de programación: C, C++, Python, SQL, HTML, Javascript, CSS**
+- **Principales herramientas: Git, GitHub, Docker, Google Cloud Platform, VS Code, PyCharm, Linux, Microsoft Office, SQLServer, PostgreSQL, OracleDB**
 
 ---
 
----
 
 ### 🌍 **Acerca de mí:**
 
