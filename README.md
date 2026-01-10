@@ -21,6 +21,6 @@ Soy alguien que disfruta ver pasar el tiempo. Ver peliculas y series es mi pasat
 ### 📢 **¡Conéctate conmigo!**
 
 - **Email:** [rodrigo1..jrll@gmail.com](mailto\:rodrigo1..jrll@gmail.com)
-- LinkedIn: [www.linkedin.com/in/jose-rodrigo-lopez-lopez-00972624b](http://www.linkedin.com/in/jose-rodrigo-lopez-lopez-00972624b)
+- **LinkedIn:** [www.linkedin.com/in/jose-rodrigo-lopez-lopez-00972624b](http://www.linkedin.com/in/jose-rodrigo-lopez-lopez-00972624b)
 
 
