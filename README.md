@@ -1,6 +1,6 @@
 ## Hola, soy Rodrigo López 👋
 
-Estudiante de Ingeniería en Computación en la UNAM, interesado en desarrollo de software, análisis de datos e inteligencia artificial, con enfoque en la resolución de problemas y el diseño de sistemas.
+Estudiante de Ingeniería en Computación en la UNAM. Mis áreas de interés se centran en los principios básicos de arquitectura de software avanzada, el diseño de bases de datos relacionales, las redes de datos y la infraestructura de enrutamiento.
 
 ---
 
